@@ -1,5 +1,5 @@
 ## Hi 
-№№ I'm looking towards
+## I'm looking towards
 
 <!--
 **gaponjk/gaponjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
