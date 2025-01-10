@@ -1,5 +1,4 @@
-## Hi 
-## I'm looking towards
+## 🖐️ Hi there, I'm Yaroslay Haponenka
 
 <!--
 **gaponjk/gaponjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
