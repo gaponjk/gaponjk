@@ -1,5 +1,7 @@
 ## 🖐️ Hi there, I'm Yaroslau Haponenka
-
+<div align="center">
+  <img height="200" width="200" src="https://tenor.com/ru/view/pixel-art-clock-gif-16224154"  />
+</div>
 <!--
 **gaponjk/gaponjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
