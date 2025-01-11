@@ -1,4 +1,5 @@
 ## 🖐️ Hi there, I'm Yaroslau Haponenka
+##I looking towards building meaningful software that strikes the perfect balance: efficiency and functionality. I am passionate about contributing to projects.
 ### ⌨️ Languages and Tools
 
 <p>
