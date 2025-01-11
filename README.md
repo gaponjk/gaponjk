@@ -12,8 +12,7 @@ I looking towards building meaningful software that strikes the perfect balance:
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-#
+### ✍️ My statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaponjk&layout=donut-vertical)](https://github.com/gaponjk/github-readme-stats)
 <!--
 **gaponjk/gaponjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
