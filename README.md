@@ -14,7 +14,7 @@ I looking towards building meaningful software that strikes the perfect balance:
 </p>
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaponjk&layout=donut-vertical)](https://github.com/gaponjk/github-readme-stats)
 <!--
 **gaponjk/gaponjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
