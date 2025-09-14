@@ -3,7 +3,7 @@ I looking towards building meaningful software that strikes the perfect balance:
 ### ⌨️ Languages and Tools
 
 <p>
-  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg&logo=openjdk&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
