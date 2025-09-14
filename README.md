@@ -6,7 +6,7 @@ I looking towards building meaningful software that strikes the perfect balance:
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
   <img alt="SpringBoot" src=" https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="PostgreSQL" src="  https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
   <img alt="cpp" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
